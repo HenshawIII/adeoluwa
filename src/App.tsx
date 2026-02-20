@@ -30,7 +30,7 @@ function App() {
         <ContactSection />
 
         <footer className="mt-12 text-center text-sm text-gray-600">
-          © 2026 Daniel Adeoluwa Henshaw
+          © 2026 Adéolúwa Edem Henshaw
         </footer>
       </div>
     </div>

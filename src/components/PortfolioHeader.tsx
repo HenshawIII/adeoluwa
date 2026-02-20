@@ -6,7 +6,7 @@ export default function PortfolioHeader() {
       <div className="flex-1">
       <div className="mb-2 text-sm text-gray-500">Portfolio</div>
       <h1 className="text-4xl md:text-5xl font-bold text-[#16160E] mb-4">
-        Daniel Adeoluwa Henshaw
+      Adéolúwa Edem Henshaw
       </h1>
       <p className="text-lg text-[#16160E] mb-6 max-w-2xl">
       Hi, I’m Adeoluwa, a digital artist and graphic designer.
