@@ -26,7 +26,7 @@ export default function ImageSlideshow({ media, title }: ImageSlideshowProps) {
   }
 
   const current = media[currentIndex];
-  const label = current.type === 'video' ? 'Video' : `Image ${currentIndex + 1}`;
+  // const label = current.type === 'video' ? 'Video' : `Image ${currentIndex + 1}`;
 
   return (
     <div className="w-full">
