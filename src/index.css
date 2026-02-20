@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #FAFADE;
+  --color-text: #16160E;
+  --font-family-sans: 'EB Garamond', serif;
+}
+
+@layer base {
+  html,
+  body {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    @apply bg-background text-text;
+  }
+}
