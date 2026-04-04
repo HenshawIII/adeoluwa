@@ -15,9 +15,9 @@ function App() {
             <p className="text-[#16160E] mb-2 md:mb-0">
               Click a project to read the story and browse images.
             </p>
-            {/* <p className="text-sm text-gray-600">
-              {projects.length} projects, 6 to 15 images each
-            </p> */}
+            <button className="text-sm text-gray-600 bg-[#16160E] text-white px-4 py-2 ">
+              <a href="https://drive.google.com/drive/folders/1qjv_H-Ao3j69sCHkHIzvHnLA-ztNq5fq" target="_blank" className="text-[#16160E] hover:underline text-white"> View full portfolio</a>
+            </button>
           </div>
           
           <div className="space-y-4">
